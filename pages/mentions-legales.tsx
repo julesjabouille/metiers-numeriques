@@ -31,7 +31,7 @@ export default function LegalNoticesPage() {
 
       <section className="fr-mt-4w">
         <h2>Directrice.eur de la publication</h2>
-        <p>Directeur interministériel du numérique.</p>
+        <p>Directrice interministérielle du numérique.</p>
       </section>
 
       <section className="fr-mt-4w">
